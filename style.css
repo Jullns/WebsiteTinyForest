@@ -24,6 +24,7 @@ header{
     align-items: center;
     z-index: 10000; 
     margin-bottom: -60px;
+    position: relative;
 }
 .logo{
     background-color: rgb(197, 231, 162);
