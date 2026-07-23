@@ -11,7 +11,7 @@ This color palette was developed based on the ecosystem of these small animals. 
 # Setup & Installation
 Clone the repository to your computer:
 
-`git clone https://github.com/Jullns/WebsiteTinyForest.git`
+`gh repo clone Jullns/WebsiteTinyForest`
 
 Navigate to the project directory:
 * cd WebsiteTinyForest
