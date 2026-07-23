@@ -3,5 +3,11 @@
 
 A web wiki dedicated to cataloging and exploring the world's incredible diversity of insects, fungi, and amphibians, designed to make nature's hidden ecosystems accessible and engaging for everyday enthusiasts.
 
+# Color palette:
+<img width="1000" height="1000" alt="Color palette" src="https://github.com/user-attachments/assets/08cd5f94-6a03-4379-9d28-68a468c20eb6" />
+
+This color palette was developed based on the ecosystem of these small animals. The site adopts a cottagecore aesthetic, which reinforces the project’s proposal to bring nature closer to the reader through earthy tones that refer to trees, in addition to the green of leaves and amphibians.
+
 # Try it!
 https://jullns.github.io/WebsiteTinyForest/
+
